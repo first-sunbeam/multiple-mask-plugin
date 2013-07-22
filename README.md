@@ -1,3 +1,3 @@
 jQuery Multiple Masks Plugin
 ====================
-Documentation and examples : http://po-godzinach.info/multiple-masks/
+Documentation and examples : http://multiple-masks.po-godzinach.info/
